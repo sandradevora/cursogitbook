@@ -113,6 +113,8 @@ $$x=\frac{1+y}{1+2z^2}$$
 
 Hay que borrar las barras antes de cada dólar, las fórmulas se abren y cierran con 2 símbolos de dólar. Hay que instalar para cada libro el pluging **katex**. Esto es en el desplegable de la flecha en la esquina superior derecha.
 
+Hay que hacer el sumario para meter los capítulos en el libro. El Readme es un resumen de cada parte.
+
 
 
 
