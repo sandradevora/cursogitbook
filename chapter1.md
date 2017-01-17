@@ -35,7 +35,7 @@ _You **can** combine them_
    * Item 3b
    
    
-   This is [an example](http://example.com/ "Title") inline link with a title.
+This is [an example](http://example.com/ "Title") inline link with a title.
 
 [This link](http://example.net/) has no title attribute.
 
