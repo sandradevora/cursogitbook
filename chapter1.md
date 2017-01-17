@@ -62,6 +62,23 @@ As Kanye West said:
 |Libro de Gitbook|Curso presencial|
 |**Aprender a programar**|*Un nuevo libro*|
 
+    Si introduzco 4 espacios en blanco estoy introduciendo un código.
+    También si introduzco un tabulador.
+    Aquí no sirven asteriscos para cursiva, etc.
+    
+```
+Así también consigo un código
+```
+
+Sólo una `tilde`al principio y al final me resalta esa palabra.
+
+<div>
+Markdown here will not be **parsed**
+</div>
+
+Estos marcadores div me dicen que es código HTML
+
+    
 
 
 
