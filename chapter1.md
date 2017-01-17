@@ -48,9 +48,20 @@ Estoy poniendo [un ejemplo][campus]
 
 ![Libro](/assets/libro.jpg)
 
+Las imágenes en jpg. y sin caracteres especiales ni espacios
+
 As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+> We're living the future so the present is our past.
+
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+|Libro de Gitbook|Curso presencial|
+|**Aprender a programar**|*Un nuevo libro*|
+
+
 
 
