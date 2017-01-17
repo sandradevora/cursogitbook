@@ -96,7 +96,7 @@ Estos marcadores div me dicen que es código HTML
   </tr>
 </table>
 
-Esto es una tabla en HTML para que yo pueda hacer modificaciones
+Esto es una tabla en HTML para que yo pueda hacer modificaciones, la de antes es más cerrada
 
 Text prior to footnote reference.[^2]
 
@@ -105,7 +105,7 @@ Text prior to footnote reference.[^2]
 
 Esto se utiliza para poner nota al pie y se puede colocar en cualquier sitio de la página al igual que el link campus que pusimos antes
 
-    
+
 
 
 
