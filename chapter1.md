@@ -105,6 +105,15 @@ Text prior to footnote reference.[^2]
 
 Esto se utiliza para poner nota al pie y se puede colocar en cualquier sitio de la página al igual que el link campus que pusimos antes
 
+***
+Los 3 asteriscos o líneas me crea una línea horizontal para cambiar secciones
+
+Esto es una fórmula: 
+$$x=\frac{1+y}{1+2z^2}$$
+
+Hay que borrar las barras antes de cada dólar, las fórmulas se abren y cierran con 2 símbolos de dólar. Hay que instalar para cada libro el pluging **katex**. Esto es en el desplegable de la flecha en la esquina superior derecha.
+
+
 
 
 
