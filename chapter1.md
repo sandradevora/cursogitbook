@@ -78,6 +78,33 @@ Markdown here will not be **parsed**
 
 Estos marcadores div me dicen que es código HTML
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
+
+Esto es una tabla en HTML para que yo pueda hacer modificaciones
+
+Text prior to footnote reference.[^2]
+
+[^2]: Comment to include in footnote.
+
+
+Esto se utiliza para poner nota al pie y se puede colocar en cualquier sitio de la página al igual que el link campus que pusimos antes
+
     
 
 
