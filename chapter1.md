@@ -45,3 +45,12 @@ Estoy poniendo [un ejemplo][campus]
 
 [campus]:http://campusvirtual.ull.es/ "Campus Virtual ULL"
 
+
+![Libro](/assets/libro.jpg)
+
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
+
