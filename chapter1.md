@@ -41,8 +41,7 @@ _You **can** combine them_
 
 **No se pone espacio entre el corchete y el paréntesis**
 
-Estoy poniendo [un ejemplo](http://ejemplo.com/ "Ejemplo")
+Estoy poniendo [un ejemplo][campus]
 
-[un ejemplo]: http://campusvirtual.ull.es/
-"Campus Virtual ULL"
+[campus]:http://campusvirtual.ull.es/ "Campus Virtual ULL"
 
