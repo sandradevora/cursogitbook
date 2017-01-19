@@ -119,6 +119,7 @@ Se puede añadir una portada usando una imagen jpg. de resolución 1800x2360. Pa
 
 Lo siguiente es hacer un Glosario. Cuando escribimos la palabra Término  o Término2 me debe salir la definición encima, pues son las palabras de mi Glosario.
 
+Se puede escribir en varios idiomas, para ello se hará una carpeta para cada idioma y cada carpeta de cada idioma tiene que tener su Summary, su README, ... Es como hacerlo todo de forma independiente.
 
 
 
