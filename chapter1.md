@@ -115,6 +115,8 @@ Hay que borrar las barras antes de cada dólar, las fórmulas se abren y cierran
 
 Hay que hacer el sumario para meter los capítulos en el libro. El Readme es un resumen de cada parte.
 
+Se puede añadir una portada usando una imagen jpg. de resolución 1800x2360. Para ello, se despliega la flecha del borde superior derecho y se introduce haciendo uso del comando Edit Book Cover.
+
 
 
 
