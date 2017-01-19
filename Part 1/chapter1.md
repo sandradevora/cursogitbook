@@ -121,6 +121,10 @@ Lo siguiente es hacer un Glosario. Cuando escribimos la palabra Término  o Tér
 
 Se puede escribir en varios idiomas, para ello se hará una carpeta para cada idioma y cada carpeta de cada idioma tiene que tener su Summary, su README, ... Es como hacerlo todo de forma independiente.
 
+Se pueden inrtroducir plugins como youtube:
+
+{% youtube %}https://www.youtube.com/watch?v=KFF5bBLX7ME{% endyoutube %}
+
 
 
 
